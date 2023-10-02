@@ -1,0 +1,33 @@
+School District: Palo Alto Unified School District
+Starting URL: https://www.pausd.org/about-us/the-team
+
+School District: About Us - Palo Alto Unified School District
+URL: https://www.pausd.org/about-us
+
+School District: Staff Directory - Palo Alto High School
+URL: https://www.paly.net/connecting/staff-directory
+
+School District: Board of Education - Palo Alto Unified School District
+URL: https://www.pausd.org/about-us/board-of-education
+
+School District: Our Team
+URL: https://www.sfusd.edu/about-sfusd/our-team
+
+School District: Elementary Schools - Palo Alto Unified School District
+URL: https://www.pausd.org/schools/elementary
+
+School District: Division Heads
+URL: https://www.sfusd.edu/about-sfusd/our-team/leadership-team/division-heads
+
+School District: Staff
+URL: https://www.scsdk8.org/apps/staff/
+
+School District: Home - Palo Alto Unified School District
+URL: https://www.pausd.org/
+
+School District: Directory | SVUSD.org
+URL: https://www.svusd.org/about/directory
+
+School District: EDUCATION
+URL: https://www.sccoe.org/supoffice/Pages/superintendent.aspx
+
